@@ -5,7 +5,7 @@
 ## How to contribute? 🤝
 
 - `Fork` this repo.
-- `Write into a file` of proper category: <br/>
+- `Write into a file` of proper category. The filename must be `<problem name>.<language used>` <br/>
 - `Push the changes`with commit messages on whatever you added.
 - `Compare And Pull Request` with proper description and title.
 -  Wait for me to `review` and `merge` your contribution.
