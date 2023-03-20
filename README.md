@@ -10,4 +10,4 @@ Steps to contribute in this repository
     4. Make pull request
     5. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours).
     
-    ### Thanks for your contribution!
+ ### Thanks for your contribution!
